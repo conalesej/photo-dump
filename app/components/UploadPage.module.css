@@ -1,12 +1,11 @@
 .middleBox {
-    min-width: 370px;
   opacity: 90%;
   z-index: 2;
   height: 90%;
   width: 90%;
   overflow: hidden;
 
-  background-color: #ffffff;
+  background-color: white;
   border-radius: 5px;
 
   display: flex;
